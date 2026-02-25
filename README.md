@@ -1,92 +1,107 @@
-<!-- BANNER / TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&vCenter=true&width=800&lines=Backend+Developer;AI+Explorer;Clean+Architecture+Enthusiast;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=900&lines=Cloud+Focused+Backend+Engineer;Microservices+Architecture;Future+Tech+Lead;Building+Scalable+Systems" />
 </p>
 
 <h1 align="center">👋 Hola, soy Gerson Hurtado</h1>
 
 <p align="center">
 🎓 Ingeniería de Sistemas – Universidad Icesi <br>
-💻 Backend Developer | Machine Learning Enthusiast <br>
-🚀 Apasionado por la arquitectura limpia y la escalabilidad
+☁️ Cloud-Oriented Backend Developer <br>
+🏗️ Microservices & Scalable Architecture Enthusiast
 </p>
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 Mi enfoque
 
-Soy desarrollador backend en formación con fuerte interés en:
+Estoy construyendo mi perfil profesional hacia:
 
-- ⚙️ Arquitectura escalable
-- 🧱 Diseño limpio y mantenible
-- 🧪 Testing y cobertura
-- 📊 Modelos predictivos y análisis de datos
+- ☁️ Arquitecturas distribuidas
+- 🧩 Diseño basado en microservicios
+- 🔄 Sistemas resilientes
+- ⚙️ Automatización e infraestructura como código
+- 🧠 Liderazgo técnico y toma de decisiones arquitectónicas
 
-Me enfoco en construir sistemas robustos, estructurados y listos para producción.
+No solo me interesa que el código funcione, sino que sea mantenible, escalable y preparado para crecer.
 
 ---
 
-## 🚀 Stack Tecnológico
+## ☁️ Arquitectura & Cloud Stack
 
-### 💻 Backend & Arquitectura
+### 💻 Backend & Microservices
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Cloud-0A0A0A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 </p>
 
-### 🗄️ Bases de Datos
+### 🗄️ Data Layer
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🧠 Data & Machine Learning
+### ⚙️ DevOps & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-
-### 🧪 Testing & Dev Tools
-<p>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
 </p>
 
 ---
 
-## 📌 Proyectos Destacados
+## 📌 Proyectos con enfoque Cloud
 
-### 🔹 TDAPP
-Aplicación enfocada en productividad para personas con TDAH y ansiedad, integrando principios de diseño cognitivo.
+### ☁️ Ecommerce Microservices Architecture
+Arquitectura basada en microservicios usando Spring Boot y Spring Cloud.
 
-### 🔹 Sistema de Emprendimientos
-Backend escalable con NestJS y TypeORM, arquitectura limpia y diseño extensible.
+- Separación por dominio
+- Comunicación entre servicios
+- Diseño desacoplado
+- Preparado para escalabilidad horizontal
 
-### 🔹 Modelo Predictivo – Ingenio Providencia
-Modelos de machine learning para estimación de TCH y porcentaje de sacarosa.
+---
 
-### 🔹 Treasure Solver
-Implementación de algoritmos de búsqueda y optimización para resolver problemas de caminos mínimos.
+### ⚙️ Ansible Deployment Pipeline
+Automatización de despliegues y configuración de infraestructura utilizando Ansible.
+
+- Infraestructura reproducible
+- Automatización de entornos
+- Base para CI/CD
+
+---
+
+### 🌆 Cali Joven – Fullstack Platform
+Desarrollo de plataforma modular con enfoque escalable.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gerson05&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerson05&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gerson05&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerson05&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gerson05&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-## 🧩 Filosofía de Desarrollo
+## 🧩 Mentalidad de Tech Lead
 
-> Código limpio sobre código rápido  
-> Arquitectura escalable sobre soluciones temporales  
-> Testing sobre suposiciones  
-> Diseño intencional sobre improvisación  
+Estoy desarrollando habilidades para:
+
+- 📐 Diseñar arquitectura antes de escribir código
+- 🔍 Revisar calidad y estándares
+- 📊 Evaluar impacto técnico a largo plazo
+- ⚖️ Tomar decisiones técnicas fundamentadas
+- 🧠 Pensar en escalabilidad futura
 
 ---
 
@@ -104,5 +119,5 @@ Implementación de algoritmos de búsqueda y optimización para resolver problem
 ---
 
 <p align="center">
-⭐ Siempre aprendiendo. Siempre construyendo. Siempre escalando.
+🚀 Building today with the mindset of tomorrow’s Tech Lead.
 </p>
